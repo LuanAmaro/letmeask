@@ -1,6 +1,7 @@
 Todos:
-  ✔ Ao criar uma nova sala, redirencionar para adminRoom. @done(21-09-20 00:28)
+  ✔ Ao criar uma nova sala, redirecionar para adminRoom. @done(21-09-20 00:28)
+  ✔ No botão faça o seu login, abrir popup do Google. @done(21-09-20 00:28)
 
-Recursos Novos:
-  ✔ No botão faça o seu login, abrir poupap google. @done(21-09-20 00:28)
-  ☐ Aplicar styled-components.
+Implementação:
+  ☐ Implementar styled-components.
+
